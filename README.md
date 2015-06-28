@@ -51,4 +51,15 @@ As this is a fun project, we provide no support for this, but we will be happy t
 
 To our knowledge, another company used this to create its name.
 
-We recommend starting with release tarball.
+Requirements
+============
+
+SQLite (with ruby bindings), FANN
+
+Source code overview
+====================
+
+ * ```chrumaj.py``` - produces training data from file
+ * ```wikipedia-parser.py``` - produces learning data from Wikipedia
+ * ```c-train``` - neural network trainer and tester (which is used for ga evaluation). Do a ```make``` and copy the resulting binary to root of the project. The network is trained, you need only test binary
+ * ```ga.rb``` - genetic algorithm for creating new words and trying to resolve (to see if .com domain is free)
