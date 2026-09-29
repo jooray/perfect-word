@@ -10,7 +10,6 @@ This piece of software is not production quality -- it is a fun project of ours.
 
 - [summaries](https://github.com/jooray/summaries): chapter summaries and keywords with pytextrank and spaCy
 - [reformatter-translator](https://github.com/jooray/reformatter-translator): reformat OCRed books and translate them with an LLM
-- [datasetgen-ng](https://github.com/jooray/datasetgen-ng): generate fine-tuning datasets from plain text
 
 **Full project showcase:** [all my projects](https://juraj.bednar.io/showcase/).
 
