@@ -3,6 +3,20 @@ Perfect Word: Generative Lexicography
 
 This piece of software is not production quality -- it is a fun project of ours. We have written it when starting the company and searching for our new name.
 
+<!-- jooray-links:start -->
+### More from me
+
+**Related projects**
+
+- [summaries](https://github.com/jooray/summaries): chapter summaries and keywords with pytextrank and spaCy
+- [reformatter-translator](https://github.com/jooray/reformatter-translator): reformat OCRed books and translate them with an LLM
+- [datasetgen-ng](https://github.com/jooray/datasetgen-ng): generate fine-tuning datasets from plain text
+
+**Full project showcase:** [all my projects](https://juraj.bednar.io/showcase/).
+
+I write about building things on [my blog](https://juraj.bednar.io/en/blog-en/). I also wrote a cypherpunk novel, [Tamers of Entropy](https://tamersofentropy.net/), and there is a [trailer](https://tamersofentropy.net/#trailer).
+<!-- jooray-links:end -->
+
 It is also unique because it is written in three different programming languages (Ruby, C and Python), which you'll probably hate.
 
 We wanted to find a good name by means of genetic algorithms. It is very difficult to find a good new name for a company these days (especially if a free .com domain is high on your list or priorities). It basically contains three parts: 
